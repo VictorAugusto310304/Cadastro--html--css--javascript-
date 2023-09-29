@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    background: #121212;
+    background: #6b6b6b;
     width: 100%;
     min-height: 100vh;
     display: flex;
@@ -24,7 +24,7 @@ body{
 }
 
 .header{
-    background: linear-gradient(120deg, #3acbf0 0%, #8bb0ff 100%);
+    background: linear-gradient(120deg, #7490eb 0%, #0330c2 100%);
     padding: 24px;
     text-align: center;
     color: #FFF;
@@ -61,7 +61,7 @@ body{
 }
 
 .form button{
-    background-color: #00c3ff;
+    background-color: #0330c2;
     color: #FFF;
     width: 100%;
     border-radius: 14px;
